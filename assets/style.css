@@ -36,3 +36,45 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+#food-bg{
+  background-image: url('images/food.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#italy-bg{
+  background-image: url('images/italy.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.buttons{
+  margin: 40px;
+  text-align: center;
+}
+
+.smallpic{
+  width: 80%;
+  margin: auto;
+  padding: 20px
+}
+
+.information{
+  padding: 20px;
+  width: 60%;
+  margin: auto;
+}
+
+.information h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#button{
+  margin: auto;
+}
