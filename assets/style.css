@@ -30,11 +30,29 @@
   color: white;
 }
 
+h1, h2 {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+h2 {
+  font-style: italic;
+}
+
 #rissani-bg {
   background-image: url('images/rissani1.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+#tokyo-bg {
+  background-image: url('images/Tokyo1.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
 }
 
 #food-bg{
@@ -212,4 +230,3 @@ figure.display-pane figcaption {
 .food{
 
 }
-
