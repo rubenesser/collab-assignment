@@ -37,6 +37,20 @@
   background-size: cover;
 }
 
+.lead-text {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+figure.display-pane {
+  margin: 20px 0;
+}
+
+figure.display-pane figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
 #valenciabackground{
   background-image: url('images/valencia3.jpg');
   background-position: center center;
