@@ -93,16 +93,19 @@ ul {
 
 .bgimg-1 {
   background-image: url('http://www.kohtaocompleteguide.com/wp-content/uploads/2015/04/DSC_1502-koh-tao-snorkelling-aow-leuk-16x9-1024x576.jpg?x77174');
+  width: 100%;
   min-height: 700px;
 }
 
 .bgimg-2 {
   background-image: url('http://www.saveourseasmagazine.com/wp-content/uploads/SOSMag-Iss01-Art04-Im02--Cheryl-SamanthaOwenCopyright-2560x1644.jpg');
+  width: 100%;
   min-height: 500px;
 }
 
 .bgimg-3 {
   background-image: url('http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/03/21/great-barrier-reef.jpg');
+  width: 100%;
   min-height: 500px;
 }
 
@@ -124,9 +127,6 @@ ul {
   color: #fff;
 }
 
-span {
-  width: 700px;
-  height: 200px;
-}
+
 
 
