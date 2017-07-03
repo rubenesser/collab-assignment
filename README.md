@@ -16,5 +16,3 @@ You will notice that two outside style sheets are included. Please have a read-t
 You are to fork this repo and create a Pull Request when you are finished. Create an individual `.html` file for your city of choice and add it to your fork. Make sure your city also has a link on the main page, in `index.html`!
 
 Upload any photos you want for your entry into the `assets/images` folder.
-
----
