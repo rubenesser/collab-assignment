@@ -1,3 +1,7 @@
+.button_home {
+  vertical-align: middle;
+}
+
 .back-btn {
   font-size: 1.5em;
   font-weight: bolder;
@@ -32,6 +36,20 @@
 
 #rissani-bg {
   background-image: url('images/rissani1.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#tokyo-r_bg {
+  background-image: url('images/tokyo_007.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#tokyo-r_01 {
+  background-image: url('images/tokyo_002.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
