@@ -1,0 +1,81 @@
+.back-btn {
+  font-size: 1.5em;
+  font-weight: bolder;
+  vertical-align: middle;
+}
+
+.windowed .hero-body, .city-tile .mesh {
+  background-image: url('images/black-mesh.png');
+  background-repeat: repeat;
+}
+
+.city-tile {
+  min-height: 300px;
+  cursor: pointer;
+}
+
+.city-tile .full-block {
+  width: 100%;
+  height: 100%;
+}
+
+.city-tile .mesh {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.city-tile h2 {
+  color: white;
+}
+
+.City_Desc_Top
+{
+  position: fixed;
+  background-color:black;
+  color: white;
+}
+
+#nagercoil-bg {
+  background-image: url('images/Nagercoil.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#nagercoil2-bg {
+  background-image: url('images/Nag_Kodhayar.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Ullakaarvi-bg {
+  background-image: url('images/Nag_Olakaruvi_Falls.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#Thirucharanathumalai-bg {
+  background-image: url('images/Nag_Thirucharanathumalai.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Thiruvalluvar-bg {
+  background-image: url('images/Nag_Thiru.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Thovalai-bg {
+  background-image: url('images/Thovalai.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
