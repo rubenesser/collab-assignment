@@ -36,3 +36,50 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.lead-text {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+figure.display-pane {
+  margin: 20px 0;
+}
+
+figure.display-pane figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+#valenciabackground{
+  background-image: url('images/valencia3.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 800px;
+  background-color: white;
+
+}
+.valenciatitle{
+  color: black;
+}
+.valenciasubtitle{
+  color: black;
+  padding:10px;
+	font-weight:bold;
+	text-align: center;
+	font-size: 20px
+}
+.form1{
+
+  margin: 10px 200px 200px 600px;
+
+}
+.drink{
+
+}
+.fruit{
+
+}
+.food{
+
+}
